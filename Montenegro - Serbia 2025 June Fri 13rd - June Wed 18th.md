@@ -125,7 +125,8 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 >![](attachments/b20f7b0a29de5ed793d255ba185ec0e.jpg|500）
 
 >(5) Dinner: Restoran Vista Vidikovac 贵但是能俯瞰budva / Big Mama Fast Food 平价好吃
->![[0a901f10ced7d1f0de2df011b990234.jpg]]
+> ![](attachments/0a901f10ced7d1f0de2df011b990234.jpg)
+
 
 >(6) 在‘Good food' 买明天的早餐，这是连锁店，Budva有很多家
 
@@ -147,7 +148,7 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 >(4) 线上买票，中国人有优惠 Blue cave ticket 30 EUR / person 
 ><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1472.5255801796332!2d18.7666155!3d42.4266459!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134c33044eb4f95d%3A0x1ea49a651126b299!2sKotor%20Boat%20Tours%2C%20Submarine%20and%20Speedboat%20-%20Montenegro%20Submarine!5e0!3m2!1szh-CN!2suk!4v1749594231095!5m2!1szh-CN!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
->[!note] (5) 爬古城墙+峡湾  ticket 15 EUR/person 往返大概要爬2-3h
+>(5) 爬古城墙+峡湾  ticket 15 EUR/person 往返大概要爬2-3h
 >  **Kotor fortress old city walls**:
 > two official entrance points are:  
 > - Near the North River Gate, behind the Church of St. Mary Collegiate.  
@@ -157,8 +158,9 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 > 最佳摄影点:   
 > - 城墙最顶端和国旗合照  
 > - 一是教堂往上约50米后回头, 你可照到教堂和峡湾的合照!  
-> 下山可沿原路, 或从另一边东侧下山; 另一边坡度更陡, 须小心!  
-> ![[d25e7e9edfabbf0d0407dad002991aa.jpg]]
+> 下山可沿原路, 或从另一边东侧下山; 另一边坡度更陡, 须小心!
+> ![](attachments/d25e7e9edfabbf0d0407dad002991aa.jpg)
+
 
 > (6) Kotor Cable Car Shuttle Bus - Kotor cable car station 
 > Kotor Cable Car Shuttle Bus Departure: 18:00
@@ -170,7 +172,8 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 > Cable car round-trip ticket 18 EUR
 > Alpine Coaster 8 EUR 不坐落日飞车会抱憾终身！！！
 > Master card has 20% discount, **Total charged:** 41.60 EUR (20.8 / person)
-> ![[fbaabd962b16bdc177c515aad3ebc0c.jpg]]
+> ![](attachments/fbaabd962b16bdc177c515aad3ebc0c.jpg)
+
 
 > (8) 20:30 Kotor cable car - Kotor Cable Car Shuttle Bus Station
 
@@ -180,9 +183,11 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 
 ### 3. Sun, June 15th kotor - Beograd
 >(1) [Blue line](https://blueline-mne.com/index.php/gradski-prevoz/gradski-prevoz-kotor-tivat)坐到佩拉斯特小镇 (40mins)，沿途欣赏亚得里亚海和岩石圣母岛（Our Lady of the Rock）风光，抵达佩拉斯特老城。
->![[d52b2f78c889c27af9bb77cd7fcbb9e.jpg]]
+>![](attachments/d52b2f78c889c27af9bb77cd7fcbb9e.jpg)
+
 >下巴士以后往岸边走，1 EUR上钟塔拍照。戴个帽子小心鸟屎。
->![[0bda37879b577813b0cce0f29bcd10c.jpg|500]]
+>![](attachments/0bda37879b577813b0cce0f29bcd10c.jpg)
+
 >佩拉斯特坐落在**维里格海峡（Verige Strait）**的北岸。
    * **站在佩拉斯特的海滨或高处（如圣尼古拉斯教堂钟楼），你可以清晰看到：**
      * **两岸高耸的石灰岩崖壁**：东北侧是**洛夫琴山脉（Lovćen Massif）**的陡峭崖壁（受洛夫琴断层控制抬升），西南侧是**沃蒂沃山（Vrmac Ridge）**。这正是“峡湾式溺谷”地貌的典型特征——**深邃、狭长、被高山绝壁环抱**。
@@ -225,7 +230,7 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 
 >(7) 圣萨瓦教堂 15-16:00
 >世界上最大的东正教教堂之一
->![[a1b13d7cab49ca25c049d3c0bc2c433.jpg]]
+>![](attachments/a1b13d7cab49ca25c049d3c0bc2c433.jpg)
 
 >(7) walk 30 mins, 16:00 - 5:00 南斯拉夫历史博物馆+铁托墓
 
