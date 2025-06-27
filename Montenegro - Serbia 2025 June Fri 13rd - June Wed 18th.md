@@ -122,7 +122,7 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 
 >(4) Afternoon - Sunset: 沿着布德瓦古城往山上走 Walk to Restoran Vista Vidikovac, bb Jadranski put, Budva 85310 
 >路上有很多猫可以互动，这是一路上猫猫对你最友好的城市了
->![[b20f7b0a29de5ed793d255ba185ec0e.jpg|500]]
+>![](attachments/b20f7b0a29de5ed793d255ba185ec0e.jpg|500）
 
 >(5) Dinner: Restoran Vista Vidikovac 贵但是能俯瞰budva / Big Mama Fast Food 平价好吃
 >![[0a901f10ced7d1f0de2df011b990234.jpg]]
