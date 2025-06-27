@@ -118,14 +118,14 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 >(2) Taxi: Podgorica Airport  - Budva bus station 小心机场门口的黑车，讲价15一个人，最后收了17，三个人拼车的，一般20欧是市场价，如果坐taxi干脆就直接去圣斯特凡岛，然后慢慢沿着海岸线走回Budva最好。但是尽量别坐他们的黑车，一出机场大门就往左边走，有大巴车去Podgorica  bus station（一小时一班），然后你再从Podgorica  bus station 到Budva bus station（如果这样走时间会久一点，7EUR 1.5h，只能在podgorica吃午饭了）
 
 >(3) Lunch:  （非常好吃强烈推荐）[Branka Pastry Shop](https://maps.app.goo.gl/WjwXkzStNxBZDeA76)
->![lunch](attachments/6010f9750d1920c28adfc66987a8992.jpg)
+>![lunch](attachment/6010f9750d1920c28adfc66987a8992.jpg)
 
 >(4) Afternoon - Sunset: 沿着布德瓦古城往山上走 Walk to Restoran Vista Vidikovac, bb Jadranski put, Budva 85310 
 >路上有很多猫可以互动，这是一路上猫猫对你最友好的城市了
->![cat](attachments/b20f7b0a29de5ed793d255ba185ec0e.jpg)
+>![cat](attachment/b20f7b0a29de5ed793d255ba185ec0e.jpg)
 
 >(5) Dinner: Restoran Vista Vidikovac 贵但是能俯瞰budva / Big Mama Fast Food 平价好吃
-> ![restraunt](attachments/0a901f10ced7d1f0de2df011b990234.jpg)
+> ![restraunt](attachment/0a901f10ced7d1f0de2df011b990234.jpg)
 
 
 >(6) 在‘Good food' 买明天的早餐，这是连锁店，Budva有很多家
@@ -158,7 +158,7 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 > - 城墙最顶端和国旗合照  
 > - 一是教堂往上约50米后回头, 你可照到教堂和峡湾的合照!  
 > 下山可沿原路, 或从另一边东侧下山; 另一边坡度更陡, 须小心!
-> ![view](attachments/d25e7e9edfabbf0d0407dad002991aa.jpg)
+> ![view](attachment/d25e7e9edfabbf0d0407dad002991aa.jpg)
 
 
 > (6) Kotor Cable Car Shuttle Bus - Kotor cable car station 
@@ -170,7 +170,7 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 > Cable car round-trip ticket 18 EUR
 > Alpine Coaster 8 EUR 不坐落日飞车会抱憾终身！！！
 > Master card has 20% discount, **Total charged:** 41.60 EUR (20.8 / person)
-> ![Lovcen sightseeing](attachments/fbaabd962b16bdc177c515aad3ebc0c.jpg)
+> ![Lovcen sightseeing](attachment/fbaabd962b16bdc177c515aad3ebc0c.jpg)
 
 
 > (8) 20:30 Kotor cable car - Kotor Cable Car Shuttle Bus Station
@@ -181,10 +181,10 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 
 ### 3. Sun, June 15th kotor - Beograd
 >(1) [Blue line](https://blueline-mne.com/index.php/gradski-prevoz/gradski-prevoz-kotor-tivat)坐到佩拉斯特小镇 (40mins)，沿途欣赏亚得里亚海和岩石圣母岛（Our Lady of the Rock）风光，抵达佩拉斯特老城。
->![perast](attachments/d52b2f78c889c27af9bb77cd7fcbb9e.jpg)
+>![perast](attachment/d52b2f78c889c27af9bb77cd7fcbb9e.jpg)
 
 >下巴士以后往岸边走，1 EUR上钟塔拍照。戴个帽子小心鸟屎。
->![tower](attachments/0bda37879b577813b0cce0f29bcd10c.jpg)
+>![tower](attachment/0bda37879b577813b0cce0f29bcd10c.jpg)
 
 >佩拉斯特坐落在**维里格海峡（Verige Strait）**的北岸。
    * **站在佩拉斯特的海滨或高处（如圣尼古拉斯教堂钟楼），你可以清晰看到：**
@@ -228,7 +228,7 @@ The plan offered by m:tel stores includes 500GB data valid for 7 days.
 
 >(7) 圣萨瓦教堂 15-16:00
 >世界上最大的东正教教堂之一
->![东正教教堂](attachments/a1b13d7cab49ca25c049d3c0bc2c433.jpg)
+>![东正教教堂](attachment/a1b13d7cab49ca25c049d3c0bc2c433.jpg)
 
 >(7) walk 30 mins, 16:00 - 5:00 南斯拉夫历史博物馆+铁托墓
 
